@@ -1,0 +1,5 @@
+# This repo tracks only the standards shared by every project here (CLAUDE.md).
+# Each project is its own git repo in a subfolder, so everything else is ignored.
+/*
+!/.gitignore
+!/CLAUDE.md
